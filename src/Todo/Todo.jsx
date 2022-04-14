@@ -1,7 +1,8 @@
 const Todo = () => {
     return ( 
         <>
-        I am the todo's</>
+        <div>insert todo item here</div>
+        </>
      );
 }
  
